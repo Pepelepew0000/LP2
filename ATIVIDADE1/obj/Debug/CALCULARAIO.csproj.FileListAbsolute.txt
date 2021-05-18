@@ -1,0 +1,10 @@
+C:\Users\namex\source\repos\CALCULARAIO\bin\Debug\CALCULARAIO.exe.config
+C:\Users\namex\source\repos\CALCULARAIO\bin\Debug\CALCULARAIO.exe
+C:\Users\namex\source\repos\CALCULARAIO\bin\Debug\CALCULARAIO.pdb
+C:\Users\namex\source\repos\CALCULARAIO\obj\Debug\CALCULARAIO.csprojAssemblyReference.cache
+C:\Users\namex\source\repos\CALCULARAIO\obj\Debug\CALCULARAIO.Form1.resources
+C:\Users\namex\source\repos\CALCULARAIO\obj\Debug\CALCULARAIO.Properties.Resources.resources
+C:\Users\namex\source\repos\CALCULARAIO\obj\Debug\CALCULARAIO.csproj.GenerateResource.cache
+C:\Users\namex\source\repos\CALCULARAIO\obj\Debug\CALCULARAIO.csproj.CoreCompileInputs.cache
+C:\Users\namex\source\repos\CALCULARAIO\obj\Debug\CALCULARAIO.exe
+C:\Users\namex\source\repos\CALCULARAIO\obj\Debug\CALCULARAIO.pdb
