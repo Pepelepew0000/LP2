@@ -1,0 +1,10 @@
+C:\Users\namex\source\repos\VERIFICADORDETRIANGULOS\bin\Debug\VERIFICADORDETRIANGULOS.exe.config
+C:\Users\namex\source\repos\VERIFICADORDETRIANGULOS\bin\Debug\VERIFICADORDETRIANGULOS.exe
+C:\Users\namex\source\repos\VERIFICADORDETRIANGULOS\bin\Debug\VERIFICADORDETRIANGULOS.pdb
+C:\Users\namex\source\repos\VERIFICADORDETRIANGULOS\obj\Debug\VERIFICADORDETRIANGULOS.csprojAssemblyReference.cache
+C:\Users\namex\source\repos\VERIFICADORDETRIANGULOS\obj\Debug\VERIFICADORDETRIANGULOS.Form1.resources
+C:\Users\namex\source\repos\VERIFICADORDETRIANGULOS\obj\Debug\VERIFICADORDETRIANGULOS.Properties.Resources.resources
+C:\Users\namex\source\repos\VERIFICADORDETRIANGULOS\obj\Debug\VERIFICADORDETRIANGULOS.csproj.GenerateResource.cache
+C:\Users\namex\source\repos\VERIFICADORDETRIANGULOS\obj\Debug\VERIFICADORDETRIANGULOS.csproj.CoreCompileInputs.cache
+C:\Users\namex\source\repos\VERIFICADORDETRIANGULOS\obj\Debug\VERIFICADORDETRIANGULOS.exe
+C:\Users\namex\source\repos\VERIFICADORDETRIANGULOS\obj\Debug\VERIFICADORDETRIANGULOS.pdb

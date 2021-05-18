@@ -1,0 +1,10 @@
+C:\Users\namex\source\repos\RAIO\bin\Debug\RAIO.exe.config
+C:\Users\namex\source\repos\RAIO\bin\Debug\RAIO.exe
+C:\Users\namex\source\repos\RAIO\bin\Debug\RAIO.pdb
+C:\Users\namex\source\repos\RAIO\obj\Debug\IMC.csprojAssemblyReference.cache
+C:\Users\namex\source\repos\RAIO\obj\Debug\RAIO.Form1.resources
+C:\Users\namex\source\repos\RAIO\obj\Debug\RAIO.Properties.Resources.resources
+C:\Users\namex\source\repos\RAIO\obj\Debug\IMC.csproj.GenerateResource.cache
+C:\Users\namex\source\repos\RAIO\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+C:\Users\namex\source\repos\RAIO\obj\Debug\RAIO.exe
+C:\Users\namex\source\repos\RAIO\obj\Debug\RAIO.pdb
