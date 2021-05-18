@@ -1,0 +1,10 @@
+C:\Users\namex\source\repos\soprogresso\bin\Debug\soprogresso.exe.config
+C:\Users\namex\source\repos\soprogresso\bin\Debug\soprogresso.exe
+C:\Users\namex\source\repos\soprogresso\bin\Debug\soprogresso.pdb
+C:\Users\namex\source\repos\soprogresso\obj\Debug\soprogresso.csprojAssemblyReference.cache
+C:\Users\namex\source\repos\soprogresso\obj\Debug\soprogresso.Form1.resources
+C:\Users\namex\source\repos\soprogresso\obj\Debug\soprogresso.Properties.Resources.resources
+C:\Users\namex\source\repos\soprogresso\obj\Debug\soprogresso.csproj.GenerateResource.cache
+C:\Users\namex\source\repos\soprogresso\obj\Debug\soprogresso.csproj.CoreCompileInputs.cache
+C:\Users\namex\source\repos\soprogresso\obj\Debug\soprogresso.exe
+C:\Users\namex\source\repos\soprogresso\obj\Debug\soprogresso.pdb
