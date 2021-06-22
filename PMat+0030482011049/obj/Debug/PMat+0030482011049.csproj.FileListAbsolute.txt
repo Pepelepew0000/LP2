@@ -1,0 +1,10 @@
+C:\Users\namex\source\repos\PMat+0030482011049\bin\Debug\PMat+0030482011049.exe.config
+C:\Users\namex\source\repos\PMat+0030482011049\bin\Debug\PMat+0030482011049.exe
+C:\Users\namex\source\repos\PMat+0030482011049\bin\Debug\PMat+0030482011049.pdb
+C:\Users\namex\source\repos\PMat+0030482011049\obj\Debug\PMat+0030482011049.csprojAssemblyReference.cache
+C:\Users\namex\source\repos\PMat+0030482011049\obj\Debug\PMat_0030482011049.Form1.resources
+C:\Users\namex\source\repos\PMat+0030482011049\obj\Debug\PMat_0030482011049.Properties.Resources.resources
+C:\Users\namex\source\repos\PMat+0030482011049\obj\Debug\PMat+0030482011049.csproj.GenerateResource.cache
+C:\Users\namex\source\repos\PMat+0030482011049\obj\Debug\PMat+0030482011049.csproj.CoreCompileInputs.cache
+C:\Users\namex\source\repos\PMat+0030482011049\obj\Debug\PMat+0030482011049.exe
+C:\Users\namex\source\repos\PMat+0030482011049\obj\Debug\PMat+0030482011049.pdb
